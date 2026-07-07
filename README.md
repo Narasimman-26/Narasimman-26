@@ -60,7 +60,7 @@ Building scalable software, solving real-world problems, and continuously learni
 ### 🛡️ SafeHer
 A women safety application designed to provide instant emergency assistance, secure communication, and location-based safety features.
 
-Tech Stack:
+Tech Stack :
 React Native (Expo) • Python • Flask • PostgreSQL • Supabase • Git • GitHub
 Key Features:
 - 🚨 One-tap SOS emergency alert
@@ -72,7 +72,7 @@ Key Features:
 ### 🚗 SmartSDV
 GenAI-powered Software Defined Vehicle diagnostics platform.
 
-Tech Stack: Python • Flask • HTML5 • CSS3 • MySQL • Git • Generative AI
+Tech Stack : Python • Flask • HTML5 • CSS3 • MySQL • Git • Generative AI
 - GenAI-powered vehicle diagnostics
 - Predictive fault detection
 - AI-assisted maintenance recommendations
@@ -80,7 +80,7 @@ Tech Stack: Python • Flask • HTML5 • CSS3 • MySQL • Git • Generative
 ### 🔐 Secure Chat Application
 Secure messaging application with authentication.
 
-Tech Stack: Python • Flask • HTML5 • CSS3 • MySQL • Git 
+Tech Stack : Python • Flask • HTML5 • CSS3 • MySQL • Git 
 - User authentication & secure messaging
 - Real-time communication
 - Privacy-focused architecture
@@ -88,7 +88,7 @@ Tech Stack: Python • Flask • HTML5 • CSS3 • MySQL • Git
 ### 📚 Python DSA
 Collection of Data Structures & Algorithms solutions.
 
-Tech Stack: Python • Java • Git 
+Tech Stack : Python • Java • Git 
 - Data Structures & Algorithms solutions
 - Interview preparation problems
 - Optimized Python implementations
