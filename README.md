@@ -59,6 +59,7 @@ Building scalable software, solving real-world problems, and continuously learni
 
 ### 🌱 AI Smart Irrigation System
 AI-powered irrigation and soil health monitoring system.
+
 **Tech Stack:**Python • Flask • Machine Learning • HTML5 • CSS3 • MySQL • Git
 - AI-based irrigation recommendation system
 - Soil moisture & NPK monitoring
