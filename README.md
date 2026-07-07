@@ -57,17 +57,29 @@ Building scalable software, solving real-world problems, and continuously learni
 
 ## 🚀 Projects
 
-### AI Smart Irrigation System
+### 🌱 AI Smart Irrigation System
 AI-powered irrigation and soil health monitoring system.
+- AI-based irrigation recommendation system
+- Soil moisture & NPK monitoring
+- Smart water optimization for agriculture
 
-### SmartSDV
+### 🚗 SmartSDV
 GenAI-powered Software Defined Vehicle diagnostics platform.
-
-### Secure Chat Application
+- GenAI-powered vehicle diagnostics
+- Predictive fault detection
+- AI-assisted maintenance recommendations
+  
+### 🔐 Secure Chat Application
 Secure messaging application with authentication.
-
-### Python DSA
+- User authentication & secure messaging
+- Real-time communication
+- Privacy-focused architecture
+  
+### 📚 Python DSA
 Collection of Data Structures & Algorithms solutions.
+- Data Structures & Algorithms solutions
+- Interview preparation problems
+- Optimized Python implementations
 
 ---
 
