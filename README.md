@@ -57,13 +57,17 @@ Building scalable software, solving real-world problems, and continuously learni
 
 ## 🚀 Projects
 
-### 🌱 AI Smart Irrigation System
-AI-powered irrigation and soil health monitoring system.
+### 🛡️ SafeHer
+A women safety application designed to provide instant emergency assistance, secure communication, and location-based safety features.
 
-**Tech Stack:**Python • Flask • Machine Learning • HTML5 • CSS3 • MySQL • Git
-- AI-based irrigation recommendation system
-- Soil moisture & NPK monitoring
-- Smart water optimization for agriculture
+Tech Stack:
+React Native (Expo) • Python • Flask • PostgreSQL • Supabase • Git • GitHub
+Key Features:
+- 🚨 One-tap SOS emergency alert
+- 📍 Live location sharing with trusted contacts
+- 💬 Secure in-app communication
+- 🗺️ Nearby safe zones and emergency services
+- 🔔 Real-time emergency notifications
 
 ### 🚗 SmartSDV
 GenAI-powered Software Defined Vehicle diagnostics platform.
