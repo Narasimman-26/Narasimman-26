@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narasimman</h1>
 
 <h3 align="center">
-Software Developer | Python Developer | AI & Backend Enthusiast
-</h3>
+Software Developer | Python Developer </h3>
 
 <p align="center">
 Building scalable software, solving real-world problems, and continuously learning modern technologies.
@@ -13,7 +12,7 @@ Building scalable software, solving real-world problems, and continuously learni
 ## 👨‍💻 About Me
 
 - 🎓 Bachelor of Engineering in Computer Science
-- 💻 Interested in Software Engineering & Backend Development
+- 💻 Interested in Software Engineering & Development
 - 🌱 Currently learning Advanced Python, Data Structures & Algorithms, System Design and Linux
 - 🚀 Passionate about AI, Open Source and Cloud Technologies
 - 🏆 Active Hackathon Participant
@@ -86,18 +85,16 @@ Collection of Data Structures & Algorithms solutions.
 
 - Software Development
 - Data Structures & Algorithms
-- Backend Engineering
 - System Design
 - Linux
-- Cloud Computing
 
 ---
 
 ## 📫 Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
-- Email: YOUR_EMAIL
+- GitHub: https://github.com/Narasimman-26
+- LinkedIn:https://www.linkedin.com/in/narasimman-p-0485872a6?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+- Email: pnarasimman26@gmail.com
 
 ---
 
