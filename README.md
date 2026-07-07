@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Narasimman</h1>
 
 <h3 align="center">
-Software Developer | Python Developer </h3>
+Software Developer | Python Developer | Problem Solver </h3>
 
 <p align="center">
 Building scalable software, solving real-world problems, and continuously learning modern technologies.
