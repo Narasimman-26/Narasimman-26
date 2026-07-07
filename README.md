@@ -72,7 +72,7 @@ Key Features:
 ### 🚗 SmartSDV
 GenAI-powered Software Defined Vehicle diagnostics platform.
 
-**Tech Stack: Python • Flask • HTML5 • CSS3 • MySQL • Git • Generative AI
+Tech Stack: Python • Flask • HTML5 • CSS3 • MySQL • Git • Generative AI
 - GenAI-powered vehicle diagnostics
 - Predictive fault detection
 - AI-assisted maintenance recommendations
@@ -80,7 +80,7 @@ GenAI-powered Software Defined Vehicle diagnostics platform.
 ### 🔐 Secure Chat Application
 Secure messaging application with authentication.
 
-**Tech Stack: Python • Flask • HTML5 • CSS3 • MySQL • Git 
+Tech Stack: Python • Flask • HTML5 • CSS3 • MySQL • Git 
 - User authentication & secure messaging
 - Real-time communication
 - Privacy-focused architecture
@@ -88,7 +88,7 @@ Secure messaging application with authentication.
 ### 📚 Python DSA
 Collection of Data Structures & Algorithms solutions.
 
-**Tech Stack: Python • Java • Git 
+Tech Stack: Python • Java • Git 
 - Data Structures & Algorithms solutions
 - Interview preparation problems
 - Optimized Python implementations
