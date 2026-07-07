@@ -67,6 +67,7 @@ AI-powered irrigation and soil health monitoring system.
 
 ### 🚗 SmartSDV
 GenAI-powered Software Defined Vehicle diagnostics platform.
+
 **Tech Stack:**Python • Flask • HTML5 • CSS3 • MySQL • Git • Generative AI
 - GenAI-powered vehicle diagnostics
 - Predictive fault detection
@@ -74,6 +75,7 @@ GenAI-powered Software Defined Vehicle diagnostics platform.
   
 ### 🔐 Secure Chat Application
 Secure messaging application with authentication.
+
 **Tech Stack:**Python • Flask • HTML5 • CSS3 • MySQL • Git 
 - User authentication & secure messaging
 - Real-time communication
@@ -81,6 +83,7 @@ Secure messaging application with authentication.
   
 ### 📚 Python DSA
 Collection of Data Structures & Algorithms solutions.
+
 **Tech Stack:**Python • Java • Git 
 - Data Structures & Algorithms solutions
 - Interview preparation problems
