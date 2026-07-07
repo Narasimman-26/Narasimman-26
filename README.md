@@ -1,70 +1,104 @@
-# Hi 👋, I'm Narasimman
+<h1 align="center">Hi 👋, I'm Narasimman</h1>
 
-💻 Aspiring Software Developer
-🎓 BE CSE Student
-## 💻 Tech Stack
+<h3 align="center">
+Software Developer | Python Developer | AI & Backend Enthusiast
+</h3>
+
+<p align="center">
+Building scalable software, solving real-world problems, and continuously learning modern technologies.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Bachelor of Engineering in Computer Science
+- 💻 Interested in Software Engineering & Backend Development
+- 🌱 Currently learning Advanced Python, Data Structures & Algorithms, System Design and Linux
+- 🚀 Passionate about AI, Open Source and Cloud Technologies
+- 🏆 Active Hackathon Participant
+- 📍 Tirunelveli, Tamil Nadu, India
+
+---
+
+## 🛠 Tech Stack
 
 ### Languages
-🐍 Python | ☕ Java | C
+- Python
+- Java
+- C
 
-### Web
-🌐 HTML5 | CSS3
+### Web Technologies
+- HTML5
+- CSS3
 
 ### Frameworks
-⚡ Flask | Streamlit
+- Flask
+- Streamlit
 
 ### Databases
-🗄️ MySQL | PostgreSQL
+- MySQL
+- PostgreSQL
 
 ### Tools
-🔧 Git | GitHub | Docker
+- Git
+- GitHub
+- Docker
 
 ### Operating Systems
-🐧 Linux
+- Linux
 
 ### Networking
-🌐 Computer Networking | TCP/IP | HTTP/HTTPS
-
-### Interests
-🤖 AI | Full Stack Development | Problem Solving | Open Source
-🚀 Interested in AI, Full Stack Development & Problem Solving
-
----
-
-## 🚀 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- TCP/IP
+- HTTP/HTTPS
+- DNS
+- REST APIs
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Projects
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+### AI Smart Irrigation System
+AI-powered irrigation and soil health monitoring system.
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+### SmartSDV
+GenAI-powered Software Defined Vehicle diagnostics platform.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### Secure Chat Application
+Secure messaging application with authentication.
 
----
-
-## 🔥 Featured Projects
-
-- 🌱 AI Smart Irrigation System
-- 🚗 SmartSDV – GenAI Driven Diagnostics
-- 🔐 Secure Chat Application
+### Python DSA
+Collection of Data Structures & Algorithms solutions.
 
 ---
 
-## 🌐 Connect With Me
+## 📈 GitHub Statistics
 
-- LinkedIn: https://www.linkedin.com/in/narasimman-p-0485872a6?utm_source=share_via&utm_content=profile&utm_medium=member_android
-- Email: pnarasimman26@gmail.com
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
+
+![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 🎯 Current Focus
+
+- Software Development
+- Data Structures & Algorithms
+- Backend Engineering
+- System Design
+- Linux
+- Cloud Computing
+
+---
+
+## 📫 Connect
+
+- GitHub: https://github.com/YOUR_USERNAME
+- LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+- Email: YOUR_EMAIL
+
+---
+
+> "Continuous learning. Clean code. Real-world impact."
