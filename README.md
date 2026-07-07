@@ -2,7 +2,31 @@
 
 💻 Aspiring Software Developer
 🎓 BE CSE Student
-🐍 Python | ☕ Java | 🌐 HTML | CSS
+## 💻 Tech Stack
+
+### Languages
+🐍 Python | ☕ Java | C
+
+### Web
+🌐 HTML5 | CSS3
+
+### Frameworks
+⚡ Flask | Streamlit
+
+### Databases
+🗄️ MySQL | PostgreSQL
+
+### Tools
+🔧 Git | GitHub | Docker
+
+### Operating Systems
+🐧 Linux
+
+### Networking
+🌐 Computer Networking | TCP/IP | HTTP/HTTPS
+
+### Interests
+🤖 AI | Full Stack Development | Problem Solving | Open Source
 🚀 Interested in AI, Full Stack Development & Problem Solving
 
 ---
