@@ -59,24 +59,28 @@ Building scalable software, solving real-world problems, and continuously learni
 
 ### 🌱 AI Smart Irrigation System
 AI-powered irrigation and soil health monitoring system.
+**Tech Stack:**Python • Flask • Machine Learning • HTML5 • CSS3 • MySQL • Git
 - AI-based irrigation recommendation system
 - Soil moisture & NPK monitoring
 - Smart water optimization for agriculture
 
 ### 🚗 SmartSDV
 GenAI-powered Software Defined Vehicle diagnostics platform.
+**Tech Stack:**Python • Flask • HTML5 • CSS3 • MySQL • Git • Generative AI
 - GenAI-powered vehicle diagnostics
 - Predictive fault detection
 - AI-assisted maintenance recommendations
   
 ### 🔐 Secure Chat Application
 Secure messaging application with authentication.
+**Tech Stack:**Python • Flask • HTML5 • CSS3 • MySQL • Git 
 - User authentication & secure messaging
 - Real-time communication
 - Privacy-focused architecture
   
 ### 📚 Python DSA
 Collection of Data Structures & Algorithms solutions.
+**Tech Stack:**Python • Java • Git 
 - Data Structures & Algorithms solutions
 - Interview preparation problems
 - Optimized Python implementations
