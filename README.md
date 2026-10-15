@@ -31,10 +31,6 @@ Building scalable software, solving real-world problems, and continuously learni
 - HTML5
 - CSS3
 
-### Frameworks
-- Flask
-- Streamlit
-
 ### Databases
 - MySQL
 - PostgreSQL
@@ -42,16 +38,18 @@ Building scalable software, solving real-world problems, and continuously learni
 ### Tools
 - Git
 - GitHub
-- Docker
+- Android Studio
+- Github Copilot
 
 ### Operating Systems
 - Linux
 
-### Networking
-- TCP/IP
-- HTTP/HTTPS
-- DNS
-- REST APIs
+### Automation
+- MCP
+- n8n
+- selenium
+- Playwright
+  
 
 ---
 
@@ -69,13 +67,18 @@ Key Features:
 - 🗺️ Nearby safe zones and emergency services
 - 🔔 Real-time emergency notifications
 
-### 🚗 SmartSDV
-GenAI-powered Software Defined Vehicle diagnostics platform.
+###  🎓 ERP Attendance Management System
+A web-based attendance management system built for college academic use, helping faculty mark attendance and students track their records in real time. Currently used by 180 users.
 
-Tech Stack : Python • Flask • HTML5 • CSS3 • MySQL • Git • Generative AI
-- GenAI-powered vehicle diagnostics
-- Predictive fault detection
-- AI-assisted maintenance recommendations
+Tech Stack :
+React.js • Firebase • PostgreSQL • Git • GitHub
+Key Features:
+- ✅ Easy attendance marking for faculty
+- 📊 Student-wise attendance tracking and reports
+- 👥 Role-based access for students and faculty
+- ⚡ Real-time data sync with Firebase
+- 🔐 Secure login and authentication
+
   
 ### 🔐 Secure Chat Application
 Secure messaging application with authentication.
