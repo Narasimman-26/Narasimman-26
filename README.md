@@ -120,8 +120,9 @@ Tech Stack : Python • Java • Git
 ## 📫 Connect
 
 - GitHub: https://github.com/Narasimman-26
-- LinkedIn:https://www.linkedin.com/in/narasimman-p-0485872a6?utm_source=share_via&utm_content=profile&utm_medium=member_android 
+- LinkedIn: https://www.linkedin.com/in/narasimman-p-0485872a6?utm_source=share_via&utm_content=profile&utm_medium=member_android 
 - Email: pnarasimman26@gmail.com
+- portfolio : https://myportfolio-orpin-five-76.vercel.app/
 
 ---
 
